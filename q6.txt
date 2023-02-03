@@ -1,0 +1,6 @@
+false
+false
+true
+true
+
+when two objects are compared there pointing addresses are compared with each other therefore initial two statements are false whereas while defining variable c reference value a is assigned to it.

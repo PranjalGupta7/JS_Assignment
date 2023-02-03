@@ -1,0 +1,3 @@
+x = 13, y=7 and z = 10 
+
+as both the arrays are compared using destructuring method value of x would be changed.

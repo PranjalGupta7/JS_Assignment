@@ -1,0 +1,3 @@
+{ first: 50, second: 30 }
+
+as same value keys can't be initiallised in same object, therefore later keys value will override the initial value of the key.

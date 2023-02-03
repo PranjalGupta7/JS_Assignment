@@ -1,0 +1,6 @@
+true
+false
+NaN
+undefined is the value of a
+
+as no value is initialised to variable a therefore during the runtime it will be initialised as undefined therefore 1st line would be true, 2nd line is false because undefined is not equal to null, in 3rd part when operations are performed with undefined a value is produced which is not a number and 4th line will give a value as undefined. 

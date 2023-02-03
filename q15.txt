@@ -1,0 +1,6 @@
+undefined
+{name: 'Sam', age: 20}
+Emily
+{name: 'Karl', age: 21}
+
+As the parameter is initially pointing the the passed object's reference whereas next time it would start pointing the null object (as per the function f1 is passed and cases are satisfiedi).

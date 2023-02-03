@@ -1,0 +1,15 @@
+var str = 'This is string';
+console.log(str.toUpperCase());
+console.log(str.toLowerCase());
+console.log(str.includes('is'));
+console.log(str.concat('.'));
+console.log(str.indexOf('string'));
+console.log(str.startsWith());
+console.log(str.endsWith());
+console.log(str.replace('i','a'));
+console.log(str.substring(2,4));
+console.log(str.trim());
+console.log(str.slice(1,12));
+console.log(str.split(''));
+console.log(str.localeCompare('qwerty'));
+console.log(str.replaceAll('i','r'));

@@ -1,0 +1,13 @@
+0 || 1 = 1
+1 || 2 = 1
+0 && 1 = 0
+1 && 2 = 2
+
+While performing or operator if one of the comparing side is non-zero or not-null non-zero value is print.
+While [performing and operator only if both comparing sides are non-zero then a non-zero value is print.
+
+The value is seet based on type of operation:
+
+1) Or: If and only if first number from left most side is zero then the next value is checked and value of the variable is overriden by it.
+
+2) And: Both the value are needed to be checked therefore always would get the last value between which the comparision is taking place. 

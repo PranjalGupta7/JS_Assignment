@@ -1,0 +1,4 @@
+a called
+Error
+
+The error would occur here because the type of var will change from function to a number.

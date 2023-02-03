@@ -1,0 +1,3 @@
+x = 3 and y = 7
+
+using the destructing method comparision, as x and y are at the ends of square brackets in [x,,y] they would be assigned end values in array [3,5,7]

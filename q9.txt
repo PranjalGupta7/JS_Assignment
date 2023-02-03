@@ -1,0 +1,6 @@
+2
+4
+3
+1
+
+2 and 4 would be printed first as others are set at timeout even if timeout is set to zero after each non timed code is executed then the timeout functions would be processesed, based on the callback queue.

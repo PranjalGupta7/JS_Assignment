@@ -1,0 +1,5 @@
+false
+false
+true
+
+As 0/0 is NaN which is not a number therefore when compared would always give false whereas in Number.isNaN would return boolean value therefore when both sides have same boolean value it will give its output as true otherwise false.
